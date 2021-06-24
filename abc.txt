@@ -1,0 +1,30 @@
+mumbai
+Current temperature is27.99000000000001deg C
+Current weather desc haze
+Current Humidity   83%
+Current wind speed4.63kmph
+ 25 Jun 2021 | 12:16:30 AM
+mumbai
+Current temperature is27.99000000000001deg C
+Current weather desc haze
+Current Humidity   83%
+Current wind speed4.63kmph
+ 25 Jun 2021 | 12:27:11 AM
+delhi
+Current temperature is30.05000000000001deg C
+Current weather desc haze
+Current Humidity   62%
+Current wind speed2.06kmph
+ 25 Jun 2021 | 12:27:22 AM
+pune
+Current temperature is22.950000000000045deg C
+Current weather desc overcast clouds
+Current Humidity   82%
+Current wind speed3.62kmph
+ 25 Jun 2021 | 12:28:53 AM
+nashik
+Current temperature is22.610000000000014deg C
+Current weather desc overcast clouds
+Current Humidity   80%
+Current wind speed5.22kmph
+ 25 Jun 2021 | 12:29:11 AM
